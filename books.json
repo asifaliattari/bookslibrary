@@ -1,0 +1,16 @@
+[
+    {
+        "title": "mujrim",
+        "author": "manto",
+        "year": 1940,
+        "genre": "fiction",
+        "read_status": "Read"
+    },
+    {
+        "title": "may kon",
+        "author": "asif",
+        "year": 2025,
+        "genre": "self inside",
+        "read_status": "Not Read"
+    }
+]
